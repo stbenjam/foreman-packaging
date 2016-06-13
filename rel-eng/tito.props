@@ -453,6 +453,7 @@ whitelist = rubygem-algebrick
   rubygem-parse-cron
   rubygem-puppetdb_foreman
   rubygem-safe_yaml
+  rubygem-smart_proxy_dynflow_core
   rubygem-wicked
   rubygem-zscheduler
 
@@ -468,6 +469,7 @@ whitelist = ipxe
   rubygem-smart_proxy_discovery
   rubygem-smart_proxy_discovery_image
   rubygem-smart_proxy_dns_powerdns
+  rubygem-smart_proxy_dynflow
   rubygem-smart_proxy_openscap
   rubygem-smart_proxy_pulp
   rubygem-smart_proxy_salt
@@ -545,6 +547,7 @@ whitelist = rubygem-algebrick
   rubygem-parse-cron
   rubygem-puppetdb_foreman
   rubygem-safe_yaml
+  rubygem-smart_proxy_dynflow_core
   rubygem-wicked
   rubygem-zscheduler
 
@@ -645,6 +648,7 @@ whitelist = rubygem-algebrick
   rubygem-smart_proxy_discovery_image
   rubygem-smart_proxy_dns_powerdns
   rubygem-smart_proxy_dynflow
+  rubygem-smart_proxy_dynflow_core
   rubygem-smart_proxy_chef
   rubygem-smart_proxy_openscap
   rubygem-smart_proxy_pulp
